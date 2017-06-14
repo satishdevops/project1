@@ -3,6 +3,7 @@
 =======
 # project1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Merge
 <<<<<<< HEAD
 test
@@ -12,3 +13,5 @@ test
 STASH1
 >>>>>>> Stashed changes
 >>>>>>> parent of 4d07e63... test2
+=======
+>>>>>>> parent of add1c00... merging
